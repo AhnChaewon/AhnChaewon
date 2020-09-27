@@ -13,6 +13,6 @@
 
 <div align=center>
   
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100036020954491)](https://www.facebook.com/profile.php?id=100036020954491) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100034893938169)](https://www.facebook.com/profile.php?id=100036020954491) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haribro2003@gmail.com)](mailto:chaewona0@@gmail.com)
 </div>
